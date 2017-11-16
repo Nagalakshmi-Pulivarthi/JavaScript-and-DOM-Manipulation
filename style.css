@@ -1,0 +1,56 @@
+.page-header{
+   
+    background-color:lightseagreen;
+    text-align: center;
+    margin: 0px;
+    padding-top: 10px;
+    
+
+
+}
+.pagination{
+    padding-left: 400px;
+}
+
+
+.form-group
+{
+    padding: 5px;
+    border-width: 1px;
+    border-style:groove;
+}
+
+
+table, th, td {
+    border: 1px groove ;
+}
+.table table-striped{
+    padding-left:50px;
+    margin-top: 30px;
+}
+input[type=text] {
+    padding-bottom: 10;
+    margin-bottom: 10px;
+    height: 30px;
+    width:150px;
+    position: relative;
+    left: 0;
+    outline-width: 10px;
+    border: 1px solid #cdcdcd;
+    border-color: rgba(0,0,0,.15);
+    background-color: white;
+    font-size: 16px;
+}
+input[type=date] {
+    padding-bottom: 10;
+    height: 30px;
+    width:150px;
+    position: relative;
+    margin-bottom: 10px;
+    left: 0;
+    outline: none;
+    border: 1px solid #cdcdcd;
+    border-color: rgba(0,0,0,.15);
+    background-color: white;
+    font-size: 16px;
+}
